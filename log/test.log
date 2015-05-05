@@ -1,0 +1,2 @@
+  [1m[36m (458.2ms)[0m  [1mDROP DATABASE IF EXISTS `agenda_test`[0m
+  [1m[35m (30.8ms)[0m  CREATE DATABASE `agenda_test` DEFAULT CHARACTER SET `utf8` COLLATE `utf8_unicode_ci`
